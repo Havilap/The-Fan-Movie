@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/The_Fan_Movie/app/src/main/res/drawable/gradient.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/The_Fan_Movie/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/The_Fan_Movie/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/The_Fan_Movie/app/src/main/res/layout/fragment_movie.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/The_Fan_Movie/app/src/main/res/layout/fragment_movie_detail.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/The_Fan_Movie/app/src/main/res/layout/movie_item.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/The_Fan_Movie/app/src/main/res/layout/popular_movies__row.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/The_Fan_Movie/app/src/main/res/layout/top_rated_movies_row.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/The_Fan_Movie/app/src/main/res/layout/upcoming_movie_row.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
