@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/movieFragment"
-        android:name="com.example.the_fan_movie.MovieFragment"
+        android:name="com.example.the_fan_movie.ui.movie.MovieFragment"
         android:label="fragment_movie"
         tools:layout="@layout/fragment_movie" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/movieDetailFragment"
-        android:name="com.example.the_fan_movie.MovieDetailFragment"
+        android:name="com.example.the_fan_movie.ui.moviedetail.MovieDetailFragment"
         android:label="fragment_movie_detail"
         tools:layout="@layout/fragment_movie_detail" />
 </navigation>

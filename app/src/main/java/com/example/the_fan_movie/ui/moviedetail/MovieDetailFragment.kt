@@ -1,10 +1,9 @@
-package com.example.the_fan_movie
+package com.example.the_fan_movie.ui.moviedetail
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
 import android.view.View
-import android.view.ViewGroup
+import com.example.the_fan_movie.R
 import com.example.the_fan_movie.databinding.FragmentMovieDetailBinding
 
 
